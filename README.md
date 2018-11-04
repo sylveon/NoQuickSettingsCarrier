@@ -10,7 +10,7 @@ If anything doesn't works, you're welcome to file an issue.
 
 [Xposed Module Repository](http://repo.xposed.info/module/me.charlesmilette.noquicksettingscarrier)
 
-[XDA Developers Forum Thread](TODO)
+[XDA Developers Forum Thread](https://forum.xda-developers.com/xposed/modules/xposed-quick-settings-carrier-t3862792)
 
 ## Compiling
 
